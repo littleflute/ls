@@ -6,25 +6,25 @@
 --------------------Configuration: LS - Win32 Debug--------------------
 </h3>
 <h3>Command Lines</h3>
-Creating command line "rc.exe /l 0x804 /fo"Debug/LS.res" /d "_DEBUG" "C:\Users\13699\xd\github\ls\src\LS.rc"" 
-Creating temporary file "C:\Users\13699\AppData\Local\Temp\RSP7EC3.tmp" with contents
+Creating command line "rc.exe /l 0x804 /fo"Debug/LS.res" /d "_DEBUG" "C:\xd\ls\src\LS.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2.tmp" with contents
 [
 /nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/LS.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
-"C:\Users\13699\xd\github\ls\src\DlgKBMidi.cpp"
-"C:\Users\13699\xd\github\ls\src\LS.cpp"
-"C:\Users\13699\xd\github\ls\src\LSDoc.cpp"
-"C:\Users\13699\xd\github\ls\src\LSView.cpp"
-"C:\Users\13699\xd\github\ls\src\MainFrm.cpp"
-"C:\Users\13699\xd\github\ls\src\XDScriptDlg.cpp"
+"C:\xd\ls\src\DlgKBMidi.cpp"
+"C:\xd\ls\src\LS.cpp"
+"C:\xd\ls\src\LSDoc.cpp"
+"C:\xd\ls\src\LSView.cpp"
+"C:\xd\ls\src\MainFrm.cpp"
+"C:\xd\ls\src\XDScriptDlg.cpp"
 ]
-Creating command line "cl.exe @C:\Users\13699\AppData\Local\Temp\RSP7EC3.tmp" 
-Creating temporary file "C:\Users\13699\AppData\Local\Temp\RSP7ED4.tmp" with contents
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3.tmp" with contents
 [
 /nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/LS.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
-"C:\Users\13699\xd\github\ls\src\StdAfx.cpp"
+"C:\xd\ls\src\StdAfx.cpp"
 ]
-Creating command line "cl.exe @C:\Users\13699\AppData\Local\Temp\RSP7ED4.tmp" 
-Creating temporary file "C:\Users\13699\AppData\Local\Temp\RSP7F04.tmp" with contents
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4.tmp" with contents
 [
 Winmm.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/LS.pdb" /debug /machine:I386 /out:"LS.exe" /pdbtype:sept 
 .\Debug\DlgKBMidi.obj
@@ -36,7 +36,7 @@ Winmm.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/LS.pdb" /debug
 .\Debug\XDScriptDlg.obj
 .\Debug\LS.res
 ]
-Creating command line "link.exe @C:\Users\13699\AppData\Local\Temp\RSP7F04.tmp"
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP4.tmp"
 <h3>Output Window</h3>
 Compiling resources...
 Compiling...

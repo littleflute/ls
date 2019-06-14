@@ -1,4 +1,5 @@
-Debug/
+/Debug
+*.plg
 *.exe
 *.ilk
 *.ncb
